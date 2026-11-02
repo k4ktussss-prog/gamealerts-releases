@@ -1,2 +1,2 @@
-5.1.0
+4.1.0
 https://github.com/k4ktussss-prog/gamealerts-releases/releases/latest
